@@ -74,7 +74,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ قناة السورس ›", url=f"https://t.me/kafren1"
+                        "‹ قناة السورس ›", url=f"https://t.me/xb_bp"
                     ),
                     InlineKeyboardButton(
                         "‹ قناة البوت ›", url=f"https://t.me/{UPDATES_CHANNEL}"
@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ قناة اشعار حب وغزل ❤️🥺 ›", url="https://t.me/kafren1"
+                        "‹ قناة اشعار حب وغزل ❤️🥺 ›", url="https://t.me/xb_bp"
                     )
                 ],
             ]
@@ -102,9 +102,9 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ سوࢪس ڪافࢪين ›", url=f"https://t.me/kafren1"),
+                InlineKeyboardButton("‹ سوࢪس ڪافࢪين ›", url=f"https://t.me/xb_bp"),
                 InlineKeyboardButton(
-                    "مطور السورس", url=f"https://t.me/taho11"
+                    "مطور السورس", url=f"https://t.me/E_T_B"
                 ),
             ]
         ]
@@ -129,9 +129,9 @@ async def src(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ سوࢪس ڪافࢪين ›", url=f"https://t.me/kafren1"),
+                InlineKeyboardButton("‹ سوࢪس ڪافࢪين ›", url=f"https://t.me/xb_bp"),
                 InlineKeyboardButton(
-                    "‹ مطور السورس ›", url=f"https://t.me/taho11"
+                    "‹ مطور السورس ›", url=f"https://t.me/E_T_B"
                 ),
             ]
         ]
